@@ -1,0 +1,526 @@
+
+1. Introduction 
+This document sets out Alpha Data IT policy towards taking backups of its information assets, including 
+their frequency, storage, retention, documentation and restoration. 
+2. Scope 
+This policy applies to all users of information assets including 'IT employees, employees of Cloud Team, 
+vendors, business partners, and contractor personnel regardless of geographic locations. 
+
+This Policy covers all Information Systems (IS) environments operated by 'Alpha Data IT & Cloud Infrastructure' or contracted with a third party by 'Alpha Data Network Services’. The term “IS environment” defines the total environment and includes, but is not limited to, all documentation, physical and logical controls, personnel, hardware (e.g. mainframe, distributed, desktop, network devices, telecommunication elements and wireless devices), software, and information. 
+
+Although this Policy explicitly covers the responsibilities of users, it does not cover the matter 
+exclusively. Other 'Alpha Data' Information Security policies, standards, and procedures define 
+additional responsibilities.
+
+
+ All users are required to read, understand and comply with the otherInformation Security policies, standards, and procedures. 
+
+If any user does not fully understand anything in these documents, he should consult with his systems administrator, business or functional manager, or Security team. 
+
+3. Policy Statements 
+This policy addresses the back-up of the information assets of Alpha Data IT & Cloud assets. 
+
+3.1.General Backup Policy Statements 
+Back up of essential business information and software should be taken according to a 
+comprehensive schedule. 
+
+ Adequate back-up facilities should be provided to ensure that all essential business 
+information and software could be recovered following a disaster or media failure. 
+
+ Back-up arrangements for individual systems and related data should be tested according 
+to a formal schedule to ensure that they meet the requirements of business continuity 
+plans 
+
+3.2.Backup and Restoration 
+ All applications, operating systems, data (including databases), user configuration 
+information and hardware configuration information where applicable) must be backed 
+up in accordance with the Backup and Restoration Procedure. 
+
+ Separate systems specific backup and restoration procedures must be developed in 
+accordance with system requirements and vendor recommendations. 
+
+These procedures 
+must be documented and implemented during (and as part of) system implementation. 
+
+5 Page Internal Use Version 1 . 0
+
+Description 
+
+The Backup and Restoration Procedure will determine the type of backups to be performed, the 
+periodicity or schedule of the backup, the protection to be provided to backup media based on 
+the criticality of the information backed up as determined by 'Alpha Data’s’ Asset Classification 
+and Control document. 
+
+ Restoration of backups will require specific and appropriate authorization and must be 
+performed in accordance with the Backup and Restoration Procedure. 
+
+Systems Administrators shall perform a verification process on the backup data to make 
+sure that it is backed up successfully. 
+
+ Systems Administrators shall perform a backup before and after installing batches or 
+upgrades or making any configuration changes on the system. 
+
+Description 
+
+This may be achieved using a combination of image copies, incremental backups, differential 
+backups, transaction logs, or other techniques. 
+
+ Backed up data that is confidential must be stored in encrypted form. 
+
+3.3.Testing of Backup Media 
+
+ Systems Administrators must check the quality of the backup media (tapes, floppy 
+diskettes, CDs, etc.) regularly and make sure that they are in a good condition to be 
+reused. 
+
+ After completion of backup testing, all data must be safely erased from the test 
+environment. 
+
+3.4.Testing of Restoration Procedures 
+
+ The System Administrator is to be responsible for testing system software and data 
+backups by restoring a sample of the backups according to a formal schedule in the test 
+environment. The Functional Manager is to be responsible for controlling and supervising 
+backup testing. 
+
+ Restoration procedures must be regularly checked (at least on a Six-monthly basis) and 
+tested to ensure that they are effective and that they can be completed within the time 
+allotted in the operational procedures for recovery. 
+
+3.5.Backup Frequency 
+
+ The frequency of data backup for each system must be determined by considering the 
+‘Availability’ and ‘Integrity’ criteria in accordance with 'Alpha Data’s’ Disaster Recovery 
+Plan and Risk Management Methodology. 
+
+3.6.Backup Cycles/Generations 
+
+ At least three generations or cycles of back-up information must be retained for 
+important business applications. 
+
+ Additional number of generations or cycles of backup must be determined by considering
+the criticality and specific requirements of different systems.
+
+6 Page Internal Use Version 1 . 0
+
+ Daily and weekly backup media must be stored near the correspondent information 
+system site server computer (on-site storage) to be readily available. 
+
+Backup tapes must be stored periodicity off-site according to data criticality in order to 
+be available in the event of a disaster, or for long term storage. 
+
+ At least two copies of fully recoverable version of all critical data must be made. One copy 
+must be stored at the Data Center or the main processing facility whereas the other copy 
+must be stored at an off-site storage location. 
+
+ Back-up information must be given an appropriate level of physical and environmental 
+protection consistent with the standards applied at the Data Center or a main processing 
+facility. 
+
+The controls applied to media at the Data Center or a main processing facility 
+must also be implemented at the back-up site. 
+3.7.Retention Period 
+
+ Backups of all 'IT & Cloud' data must be retained such that all systems are fully 
+recoverable. 
+
+At a minimum, each backup must be retained for 30 days. 
+
+ The retention period and any requirement for archive copies to be retained for longer 
+periods (or permanently) must be formally determined for critical business information 
+as well as based on any legal requirements. 
+
+3.8.Backup Documentation 
+
+ Backup documentation must include identification of all critical data, programs, 
+documentation, and support items that would be necessary to perform essential tasks 
+during a recovery period. 
+
+ Each backup media must be appropriately labeled with details of owner, date, nature of 
+backup (e.g. Full image copy or file copy). 
+
+In addition, it must be given a classification 
+label, as applicable, according to 'Alpha Data’s Asset classification and control policy. 
+All backup media to be transported from the Data Center or the processing facility to the 
+offsite location must be logged. 
+
+Description 
+
+The on-site backup media log must contain the following information: 
+
+ Date of taking the backup. 
+
+ Date of transporting the media to the offsite location 
+
+ Contents of the media (e.g. transaction backup, application backup, entire system 
+backup) 
+
+ Nature of backup (e.g. full image copy or file copy) 
+
+ Name of the off-site location 
+
+ Name and signature of the responsible person at the onsite location. 
+
+ Any other label information 
+7  Page Internal Use Version 1 . 0
+
+All backup media to be received from the Data Center or the main processing facility and 
+stored at the off-site location must be logged at the off-site storage location. 
+Description 
+
+The off-site backup media log must contain the following information: 
+Date of receiving the media at the offsite location Contents of the media (e.g. transaction backup, application backup, entire system 
+backup) 
+ 
+Nature of backup (e.g. full image copy or file copy) 
+
+Name of the Carrier 
+
+Name of the original location 
+
+ Name and signature of the responsible person receiving the media at the off-site location 
+
+ Any other label information 
+3.9.Documentation of Restoration Process 
+
+ Documentation of the restoration process must include procedures for the recovery from 
+single-system or application failures as well as for a total 'Alpha Data' Data Center or main 
+processing facilities disaster scenario. 
+
+3.10. Review of Documentation 
+
+ Backup and recovery documentation must be reviewed and updated regularly to account for 
+new technology, business changes, and migration of applications to alternative platforms. 
+
+3.11. Determining Factors Influencing Data Backup 
+
+ The following influential factors must be determined for each system, possibly even for 
+each individual application of particular significance to company 
+
+ The data of the systems (applications) required to be backed up must be determined. 
+Description 
+
+This includes the application and operational software, system data (e.g. initialization files, 
+macro definitions, configuration data, text blocks, password files, and access-right files), the 
+
+1. Introduction 
+
+This document sets out Alpha Data IT policy towards taking backups of its information assets, including 
+their frequency, storage, retention, documentation and restoration. 
+
+2. Scope 
+
+This policy applies to all users of information assets including 'IT employees, employees of Cloud Team, 
+vendors, business partners, and contractor personnel regardless of geographic locations. 
+
+This Policy covers all Information Systems (IS) environments operated by 'Alpha Data IT & Cloud 
+
+Infrastructure' or contracted with a third party by 'Alpha Data Network Services’. The term “IS 
+environment” defines the total environment and includes, but is not limited to, all documentation, 
+physical and logical controls, personnel, hardware (e.g. mainframe, distributed, desktop, network 
+devices, telecommunication elements and wireless devices), software, and information. 
+
+Although this Policy explicitly covers the responsibilities of users, it does not cover the matter 
+exclusively. Other 'Alpha Data' Information Security policies, standards, and procedures define 
+additional responsibilities. 
+
+All users are required to read, understand and comply with the other
+Information Security policies, standards, and procedures. 
+
+If any user does not fully understand anything 
+in these documents, he should consult with his systems administrator, business or functional manager, 
+or Security team. 
+
+3. Policy Statements 
+
+This policy addresses the back-up of the information assets of Alpha Data IT & Cloud assets. 
+
+3.1.General Backup Policy Statements 
+
+ Back up of essential business information and software should be taken according to a 
+comprehensive schedule. 
+
+ Adequate back-up facilities should be provided to ensure that all essential business 
+information and software could be recovered following a disaster or media failure. 
+
+ Back-up arrangements for individual systems and related data should be tested according 
+to a formal schedule to ensure that they meet the requirements of business continuity 
+plans 
+
+3.2.Backup and Restoration 
+
+ All applications, operating systems, data (including databases), user configuration 
+information and hardware configuration information where applicable) must be backed 
+up in accordance with the Backup and Restoration Procedure. 
+
+ Separate systems specific backup and restoration procedures must be developed in 
+accordance with system requirements and vendor recommendations. These procedures 
+must be documented and implemented during (and as part of) system implementation. 
+
+5  Page Internal Use Version 1 . 0
+Description 
+
+The Backup and Restoration Procedure will determine the type of backups to be performed, the 
+periodicity or schedule of the backup, the protection to be provided to backup media based on 
+the criticality of the information backed up as determined by 'Alpha Data’s’ Asset Classification 
+and Control document. 
+
+Restoration of backups will require specific and appropriate authorization and must be 
+performed in accordance with the Backup and Restoration Procedure. 
+
+ Systems Administrators shall perform a verification process on the backup data to make 
+sure that it is backed up successfully. 
+
+ Systems Administrators shall perform a backup before and after installing batches or 
+upgrades or making any configuration changes on the system. 
+
+Description 
+
+This may be achieved using a combination of image copies, incremental backups, differential 
+backups, transaction logs, or other techniques. 
+
+ Backed up data that is confidential must be stored in encrypted form. 
+
+3.3.Testing of Backup Media 
+
+ Systems Administrators must check the quality of the backup media (tapes, floppy 
+diskettes, CDs, etc.) regularly and make sure that they are in a good condition to be 
+reused. 
+
+ After completion of backup testing, all data must be safely erased from the test 
+environment. 
+
+3.4.Testing of Restoration Procedures 
+
+ The System Administrator is to be responsible for testing system software and data 
+
+backups by restoring a sample of the backups according to a formal schedule in the test 
+environment. The Functional Manager is to be responsible for controlling and supervising 
+backup testing. 
+
+ Restoration procedures must be regularly checked (at least on a Six-monthly basis) and 
+tested to ensure that they are effective and that they can be completed within the time 
+allotted in the operational procedures for recovery. 
+
+3.5.Backup Frequency 
+
+ The frequency of data backup for each system must be determined by considering the 
+‘Availability’ and ‘Integrity’ criteria in accordance with 'Alpha Data’s’ Disaster Recovery 
+
+Plan and Risk Management Methodology. 
+
+3.6.Backup Cycles/Generations 
+
+ At least three generations or cycles of back-up information must be retained for 
+important business applications. 
+
+ Additional number of generations or cycles of backup must be determined by considering
+the criticality and specific requirements of different systems.
+
+6  Page Internal Use Version 1 . 0
+
+Daily and weekly backup media must be stored near the correspondent information 
+system site server computer (on-site storage) to be readily available. 
+
+Backup tapes must be stored periodicity off-site according to data criticality in order to 
+be available in the event of a disaster, or for long term storage. 
+
+At least two copies of fully recoverable version of all critical data must be made. One copy 
+must be stored at the Data Center or the main processing facility whereas the other copy 
+must be stored at an off-site storage location. 
+
+Back-up information must be given an appropriate level of physical and environmental 
+protection consistent with the standards applied at the Data Center or a main processing 
+facility. 
+
+The controls applied to media at the Data Center or a main processing facility 
+must also be implemented at the back-up site. 
+
+3.7.Retention Period 
+
+ Backups of all 'IT & Cloud' data must be retained such that all systems are fully 
+recoverable. At a minimum, each backup must be retained for 30 days. 
+
+ The retention period and any requirement for archive copies to be retained for longer 
+periods (or permanently) must be formally determined for critical business information 
+as well as based on any legal requirements. 
+
+3.8.Backup Documentation 
+
+ Backup documentation must include identification of all critical data, programs, 
+documentation, and support items that would be necessary to perform essential tasks 
+during a recovery period. 
+
+ Each backup media must be appropriately labeled with details of owner, date, nature of 
+backup (e.g. Full image copy or file copy). In addition, it must be given a classification 
+label, as applicable, according to 'Alpha Data’s Asset classification and control policy. 
+
+ All backup media to be transported from the Data Center or the processing facility to the 
+offsite location must be logged. 
+
+Description 
+
+The on-site backup media log must contain the following information: 
+ Date of taking the backup. 
+
+ Date of transporting the media to the offsite location 
+
+ Contents of the media (e.g. transaction backup, application backup, entire system 
+backup) 
+
+ Nature of backup (e.g. full image copy or file copy) 
+
+ Name of the off-site location 
+
+ Name and signature of the responsible person at the onsite location. 
+
+ Any other label information 
+
+7  Page Internal Use Version 1 . 0
+
+All backup media to be received from the Data Center or the main processing facility and 
+
+stored at the off-site location must be logged at the off-site storage location. 
+Description 
+
+The off-site backup media log must contain the following information: 
+
+ Date of receiving the media at the offsite location 
+
+ Contents of the media (e.g. transaction backup, application backup, entire system 
+backup) 
+
+ Nature of backup (e.g. full image copy or file copy) 
+
+ Name of the Carrier 
+
+ Name of the original location 
+
+ Name and signature of the responsible person receiving the media at the off-site location 
+
+ Any other label information 
+
+3.9.Documentation of Restoration Process 
+
+ Documentation of the restoration process must include procedures for the recovery from 
+single-system or application failures as well as for a total 'Alpha Data' Data Center or main 
+processing facilities disaster scenario. 
+
+3.10. Review of Documentation 
+
+ Backup and recovery documentation must be reviewed and updated regularly to account for 
+new technology, business changes, and migration of applications to alternative platforms. 
+
+3.11. Determining Factors Influencing Data Backup 
+
+ The following influential factors must be determined for each system, possibly even for 
+each individual application of particular significance to company 
+
+ The data of the systems (applications) required to be backed up must be determined. 
+Description 
+
+This includes the application and operational software, system data (e.g. initialization files, 
+macro definitions, configuration data, text blocks, password files, and access-right files), the 
+application data as such and the protocol data (such as that relating to log-ins and data 
+transmissions). 
+
+ Consideration must also be given as to whether paper usage would allow short- term 
+continuation of operations without IT support. 
+
+3.12. Effort Required for Data Reconstruction Without Data Backup. 
+
+ It must be known whether, and how easily, destroyed databases can be reconstructed if 
+backup data were not available. 
+
+ The sources from which the data could be reconstructed must be examined. 
+
+8  Page Internal Use Version 1 . 0
+
+The volume of data that is modified over a certain time period must be considered while 
+establishing the frequency of data backup. 
+
+3.13. Modification Times 
+
+ Where data is modified continuously in a system, an appropriate data backup frequency must 
+be specified. 
+3.14. Deadlines 
+
+ It must be determined whether certain deadlines have to be observed for the data. This 
+can involve storage or deletion deadlines relating to person-related data. 
+
+ These deadlines must be considered when laying down the system specific data backup 
+policies. 
+
+3.15. Confidentiality Requirements 
+ Consideration must be given as to the confidentiality requirements of the data needing 
+backup. 
+
+3.16. Integrity Requirements 
+
+ Data backups must ensure that data are stored integrally and not modified during the period 
+of storage. 
+3.17. Knowledge and Data-Processing Competence of Alpha Data Users 
+
+ Only 'Alpha Data IT & Cloud team' employees or system administrators with the requisite 
+skills and capabilities must be allowed to carry out data backups. 
+
+3.18. Employee Commitment to Data Backup 
+ The relevant 'Alpha Data' employees must be committed to adherence to data backup 
+policy and relevant procedures. 
+
+ Employee commitment to data backup must be in writing. 
+
+4. Compliance Measurement 
+
+ Compliance with Back-up Policy is mandatory. Alpha Data senior management must ensure 
+continuous compliance monitoring within their department units. Compliance with Back-up 
+
+Policy will be a matter for periodic review by Alpha Data Audit team. 
+
+ Compliance measurement should also include periodic review for Security Quality Assurance. 
+Violations of the policies, standards, and procedures of policy will result in corrective action 
+by management. 
+
+ Disciplinary action will be consistent with the severity of the incident, as determined by an 
+investigation, and may include, but not be limited to: 
+
+ Loss of access privileges to information assets. 
+
+9  Page Internal Use Version 1 . 0
+
+ Other actions as deemed appropriate by management, Human Resources, 
+and the Legal Department. 
+
+5. Responsibilities 
+
+ The sponsor of this policy is the Services Heads of Alpha Data. 
+
+ The Head of Network Services or the delegated Security Specialist is responsible for 
+maintenance and accuracy of the policy. 
+
+6. References 
+
+This policy makes reference to the following Policy: 
+
+ Policy Name 
+
+1. ISO 27001 A.12.3.1 
+ 
+7. Policy waiver 
+This Policy is intended to address Alpha Data security requirements. Requested waivers must be 
+formally submitted to the Alpha Data management, including justification and benefits attributed to the 
+waiver, and must be approved by the Network Services Heads or delegated personnel. 
+
+The waiver 
+should only be used in exceptional situations when communicating non-compliance with the policy for 
+a specific period of time (subject to a maximum period of 26 weeks).
+
+ At the completion of the time 
+period the need for the waiver should be reassessed and re-approved, if necessary. No policy should 
+provide a waiver for more than three consecutive terms. The waiver should be monitored to ensure its 
+concurrence with the specified period of time and exception. 
+
+8. Enforcement 
+If employees are found to be violating the terms set out in this policy document, without proper 
+justification then it will be considered reasonable for action to be taken by Alpha Data HR department 
+with disciplinary action, up to and including termination of employment
