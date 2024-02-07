@@ -1,0 +1,189 @@
+The following is a list of all standards from the Joint Commission International Accreditation Standards for 
+Ambulatory Care, 4th Edition applicable to ambulatory surgery. They are presented here for your convenience 
+without their intent statements or measurable elements. For more information about these standards, please see 
+the Standards, Intents, and Measurable Elements section of the applicable chapter in this document.
+Certain standards listed in this table may have an intent statement that is combined for multiple standards, for 
+example, FMS.8.2 and FMS.8.2.1 share a combined intent statement. In this example, FMS.8.2 is applicable 
+to ambulatory surgery while FMS.8.2.1 is not. When listed in the document, the standard wording and 
+measurable elements for FMS.8.2.1 will not be available, but the intent will still state that it’s applicable to 
+FMS.8.2 and FMS.8.2.1. Only the standards listed in this table are applicable to ambulatory surgery centers 
+using this document.
+Note: This document does not include the Accreditation Participation Requirements (APRs) that all JCI-accredited 
+ambulatory care organizations must meet. The APRs can be found in the Joint Commission International 
+Accreditation Standards for Ambulatory Care, 4th Edition.
+Standard Standard Wording
+International Patient Safety Goals (IPSG)
+IPSG.1 The ambulatory care organization develops and implements a process to improve 
+accuracy of patient identifications. ℗
+IPSG.2 The ambulatory care organization develops and implements a process to improve 
+the effectiveness of verbal and/or telephone communication among caregivers. ℗
+IPSG.2.1 The ambulatory care organization develops and implements a process for reporting critical results of diagnostic tests. ℗
+IPSG.2.2 The ambulatory care organization develops and implements a process for handover communication. ℗
+IPSG.3 The ambulatory care organization develops and implements a process to improve 
+the safety of high-alert medications. ℗
+IPSG.3.1 The ambulatory care organization develops and implements a process to manage 
+the safe use of concentrated electrolytes. ℗ 
+IPSG.4 The ambulatory care organization develops and implements a process for the preoperative verification and surgical/invasive procedure site marking. ℗
+IPSG.4.1 The ambulatory care organization develops and implements a process for the 
+time-out that is performed immediately prior to the start of the surgical/invasive 
+procedure and the sign-out that is conducted after the procedure. ℗
+IPSG.5 The ambulatory care organization adopts and implements evidence-based 
+hand-hygiene guidelines to reduce the risk of health care–associated infections. ℗
+Joint Commission International Accreditation Standards for Ambulatory Care, 4th Edition
+2
+Standard Standard Wording
+IPSG.6.1 The ambulatory care organization develops and implements a process to reduce the 
+risk of patient harm resulting from falls for the organization’s patient population. ℗
+Access to Care and Continuity of Care (ACC)
+ACC.1 The ambulatory care organization informs the community about its services and 
+how to obtain care and screens patients to identify whether their health care needs 
+match the ambulatory care organization’s mission and resources. ℗
+ACC.1.1 Patient flow in the ambulatory care organization is designed to provide efficient 
+care and uniform access based on the needs of the patient. ℗
+ACC.2 The ambulatory care organization designs and carries out processes to provide 
+continuity of patient care services in the ambulatory care organization and coordination among health care practitioners. ℗
+ACC.3 There is a qualified individual identified as responsible for the patient’s care. ℗
+ACC.4 The ambulatory care organization has a program to provide ongoing care and 
+support to patients who have chronic diseases. ℗
+ACC.4.1 The medical records of patients seen over time who require complex care or have
+complex diagnoses contain profiles of the medical care and are made available to 
+the health care practitioners providing care to those patients. ℗
+ACC.5 The ambulatory care organization develops and implements a process to refer 
+patients to other health care practitioners, another level of care, other health care 
+settings, or other organizations to meet their continuing care needs. ℗
+ACC.5.1 The ambulatory care organization develops and implements a process to transfer 
+patients to another organization to meet their continuing care needs. ℗
+ACC.5.2 Information about the care and services that the patient will need when he or she 
+is referred by the ambulatory care organization is communicated to the patient, 
+family, and continuing care practitioner and/or setting.
+ACC.6 Patient education and follow-up instructions are given in a form and language the 
+patient can understand.
+ACC.7.1 The ambulatory care organization’s transportation services comply with relevant 
+laws and regulations and meet requirements for quality and safe transport. ℗
+Patient and Family Rights (PFR)
+PFR.1 The ambulatory care organization is responsible for developing and implementing 
+processes that support patients’ and families’ rights during care. ℗
+PFR.1.1 The ambulatory care organization seeks to reduce physical, language, cultural, 
+and other barriers to access and delivery of services.
+PFR.1.2 The ambulatory care organization provides care that is respectful of the patient’s
+dignity, personal values, and beliefs; and the patient’s rights to privacy and
+confidentiality of care and information are respected and protected. ℗
+PFR.1.3 Patients are protected from verbal abuse and physical assault, and vulnerable 
+populations are identified and protected from additional risks
+PFR.2 The ambulatory care organization provides care that is respectful of patients’ and 
+families’ personal values and beliefs and supports their rights to participate in the 
+care process. ℗
+3
+Applicable Standards for Surgery (Including Plastic Surgery) Centers
+Standard Standard Wording
+PFR.3 All patients are informed about their rights and responsibilities in a manner and 
+language they can understand.
+PFR.4 Patient informed consent is obtained through a process defined by the ambulatory 
+care organization and carried out by trained staff in a manner and language that 
+the patient can understand. ℗
+PFR.4.1 Informed consent is obtained before surgery, anesthesia, procedural sedation, use 
+of blood and blood products, and other high-risk treatments and procedures. ℗
+PFR.4.2 Patients and families receive adequate information about the illness, proposed
+treatment(s), and health care practitioners so that they can make care decisions.
+PFR.4.3 The ambulatory care organization establishes a process, within the context of 
+existing law and culture, for when others can grant consent. ℗
+Assessment of Patients (AOP)
+AOP.1 An initial assessment process is used to identify the health care needs of all 
+patients
+AOP.1.1 The scope and content of initial assessments conducted by different clinical disciplines is defined in writing and based on applicable laws and regulations. ℗
+AOP.2 All patients are screened for pain and assessed when pain is present.
+AOP.3 The ambulatory care organization has a process for obtaining findings from relevant outside assessments and incorporating them into the organization’s patient 
+assessment process.
+AOP.4 There is an established reassessment process for patients requiring additional 
+services or ongoing care. ℗
+AOP.5 The time frame for initial assessments and, as appropriate, reassessment is consistent with each patient’s needs, organizational policy, and accepted professional 
+guidelines.
+AOP.6 Laboratory services are available to meet patient needs, and all such services 
+meet applicable local and national standards, laws, and regulations.
+AOP.6.1.1 A qualified individual is responsible for the oversight and supervision of
+point-of-care testing in the ambulatory care organization, and testing is
+performed by trained and competent staff. ℗
+AOP.6.2 A laboratory safety program is in place, followed, and documented, and compliance with the facility management and infection prevention and control programs 
+is maintained. ℗
+AOP.6.2.1 The laboratory uses a coordinated process to reduce the risks of infection as a 
+result of exposure to infectious diseases and biohazardous materials and waste. ℗
+AOP.6.3 Laboratory services provided in the organization meet patient and staff needs, are
+organized with adequate supplies, and provide proper specimen management. ℗
+AOP.6.4 All equipment used for laboratory testing is regularly inspected, maintained, and
+calibrated, and appropriate records are maintained for these activities. ℗
+AOP.6.5 Quality control procedures for laboratory services are in place, followed, and
+documented. ℗
+AOP.6.5.1 There is a process for proficiency testing of laboratory services. ℗
+AOP.7 Radiology and diagnostic imaging services are available to meet patient needs, 
+and all such services meet applicable local and national standards, laws, and 
+regulations.
+Joint Commission International Accreditation Standards for Ambulatory Care, 4th Edition
+4
+Standard Standard Wording
+AOP.7.1 A qualified individual(s) is responsible for managing the radiology and diagnostic
+imaging services. ℗
+AOP.7.2 Individuals with proper qualifications and experience perform diagnostic imaging
+studies, interpret the results, and report the results.
+AOP.7.3 A radiation and/or diagnostic imaging safety program for patients, staff, and visitors is in place, followed, and complies with applicable professional standards, 
+laws, and regulations. ℗
+AOP.7.4 Radiology and diagnostic imaging study results are available in a timely way as 
+defined by the ambulatory care organization. ℗
+AOP.7.5 All equipment used to conduct radiology and diagnostic imaging studies is regularly inspected, maintained, and calibrated, and appropriate records are maintained for these activities. ℗
+AOP.7.6 Quality control procedures for the radiology and diagnostic imaging services are in
+place, followed, validated, and documented. ℗
+Care of Patients (COP)
+COP.1 The ambulatory care organization provides care and treatment using uniform care 
+processes to all patients that follow applicable laws and regulations. ℗
+COP.2 An individualized plan of care is developed, revised when indicated by a change in 
+the patient’s condition, and documented for each patient.
+COP.2.1 Clinical practice guidelines and related clinical pathways and/or clinical protocols 
+as well as other evidence-based recommendations are used to guide patient 
+assessment and treatment and reduce unwanted variation. ℗
+COP.3 The care of high-risk patients and the provision of high-risk services are guided by 
+professional practice guidelines, laws, and regulations. ℗
+COP.3.1 Clinical guidelines and procedures are established and implemented for the handling, use, and administration of blood and blood products. ℗
+COP.4 The ambulatory care organization establishes and implements a program for the 
+safe use of lasers and other optical radiation devices that are used for performing 
+procedures and treatments in the organization. ℗
+COP.4.1 Adverse events and adverse health effects resulting from the use of lasers and 
+other optical radiation devices are reported and action plans to prevent recurrence 
+are implemented and monitored.
+COP.5 Resuscitation services are available throughout the ambulatory care organization.
+COP.6 When patients remain in the ambulatory care organization for extended periods, 
+food is available that is appropriate for the patient’s nutritional status and consistent with his or her clinical care.
+COP.6.1 Patients at nutritional risk receive nutrition therapy.
+COP.7 Patients are supported in managing pain effectively. ℗
+Anesthesia and Surgery Care (ASC)
+ASC.1 Sedation and anesthesia services, if provided by the ambulatory care organization, meet professional standards and applicable local and national standards, 
+laws, and regulations.
+5
+Applicable Standards for Surgery (Including Plastic Surgery) Centers
+Standard Standard Wording
+ASC.2 A qualified individual(s) is responsible for managing the sedation and anesthesia 
+services.
+ASC.3 The administration of procedural sedation is standardized throughout the ambulatory care organization. ℗
+ASC.3.1 Practitioners responsible for procedural sedation and individuals responsible for
+monitoring patients receiving sedation are qualified. ℗
+ASC.3.2 Procedural sedation is administered and monitored according to professional practice guidelines. ℗
+ASC.3.3 The risks, benefits, and alternatives related to procedural sedation are discussed 
+with the patient, his or her family, or those who make decisions for the patient.
+ASC.4 A qualified individual conducts a preanesthesia assessment and preinduction 
+assessment.
+ASC.5 Each patient’s anesthesia care is planned and documented, and the anesthesia 
+and technique used are documented in the patient’s medical record.
+ASC.5.1 The risks, benefits, and alternatives related to anesthesia are discussed with the 
+patient, his or her family, or those who make decisions for the patient.
+ASC.6 Each patient’s physiological status during anesthesia and surgery is monitored 
+according to professional practice guidelines and documented in the patient’s 
+medical record. ℗
+ASC.6.1 Each patient’s postanesthesia status is monitored and documented, and the 
+patient is discharged from the recovery area by a qualified individual or by using 
+established criteria. ℗
+ASC.7 Each patient’s surgical care is planned and documented based on the results of 
+the assessment
+ASC.7.1 The risks, benefits, and alternatives are discussed with the patient and his or her 
+family or those who make decisions for the patient.
+ASC.7.2 Information about the surgical procedure is documented in the patient’s medical 
+record to facilitate continuing care.
+ASC.7.3 Patient care after surgery is planned and documented.
+ASC.7.4 Surgical care that includes the implanting of a medical device is planned with special consideration of how standard processes and procedures must be modified. ℗
